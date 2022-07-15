@@ -34,7 +34,6 @@ jobs:
           signoff: false
           draft: false
           labels: |
-            automerge
             automated
       - name: Enable Pull Request Automerge
         if: steps.cpr.outputs.pull-request-operation == 'created'
