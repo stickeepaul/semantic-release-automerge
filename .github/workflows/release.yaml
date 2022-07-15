@@ -15,6 +15,8 @@ jobs:
           semantic_version: 19.0.3
           extra_plugins: |
             @semantic-release/changelog@6.0.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.SEMANTIC_RELEASE_TOKEN }}
       - name: Create PR
         uses: peter-evans/create-pull-request@v4
         with:
