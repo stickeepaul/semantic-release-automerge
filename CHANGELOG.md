@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/stickeepaul/semantic-release-automerge/compare/v1.2.0...v1.2.1) (2022-07-15)
+
+
+### Bug Fixes
+
+* remove autodelete because obviously it wont run ([f97c7e9](https://github.com/stickeepaul/semantic-release-automerge/commit/f97c7e989669be28813573f9152a9dde23591089))
+
 # [1.2.0](https://github.com/stickeepaul/semantic-release-automerge/compare/v1.1.1...v1.2.0) (2022-07-15)
 
 
