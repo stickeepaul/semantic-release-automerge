@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/stickeepaul/semantic-release-changelog-with-github-protected-branches/compare/v1.2.2...v1.3.0) (2022-07-15)
+
+
+### Features
+
+* add description to readme ([b6932d2](https://github.com/stickeepaul/semantic-release-changelog-with-github-protected-branches/commit/b6932d2ae8e038ccef1bff7bcb1eaa837f51f28e))
+
 ## [1.2.2](https://github.com/stickeepaul/semantic-release-automerge/compare/v1.2.1...v1.2.2) (2022-07-15)
 
 
