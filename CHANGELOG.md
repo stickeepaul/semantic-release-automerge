@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/stickeepaul/semantic-release-changelog-with-github-protected-branches/compare/v1.3.0...v1.4.0) (2022-07-15)
+
+
+### Features
+
+* pepe silvia ([fd200bb](https://github.com/stickeepaul/semantic-release-changelog-with-github-protected-branches/commit/fd200bbb4fc1e9556a7355e6ab0e1507a756044e))
+
 # [1.3.0](https://github.com/stickeepaul/semantic-release-changelog-with-github-protected-branches/compare/v1.2.2...v1.3.0) (2022-07-15)
 
 
