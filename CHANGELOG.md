@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/stickeepaul/semantic-release-automerge/compare/v1.0.0...v1.1.0) (2022-07-15)
+
+
+### Bug Fixes
+
+* typo ([4c7c5c9](https://github.com/stickeepaul/semantic-release-automerge/commit/4c7c5c9207066308d49f550408e8bacfc3b150ef))
+
+
+### Features
+
+* mention autoapprove ([fb9459e](https://github.com/stickeepaul/semantic-release-automerge/commit/fb9459e08dfd58891708ec78f41da1ff5352b12e))
+
 # 1.0.0 (2022-07-15)
 
 
