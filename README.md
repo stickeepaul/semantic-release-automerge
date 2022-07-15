@@ -2,6 +2,8 @@
 
 Using [@semantic-release/changelog](https://github.com/semantic-release/changelog) with GitHub Protected Branches.
 
+![](https://i.kym-cdn.com/entries/icons/original/000/022/524/tumblr_o16n2kBlpX1ta3qyvo1_1280.jpg)
+
 ## The Problem
 
 If you are using protected branches and require a pull request before merging then the GitHub action for `@semantic-release/git` cannot push directly to the protected branch.
