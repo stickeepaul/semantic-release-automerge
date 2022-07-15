@@ -25,7 +25,7 @@ jobs:
         with:
           title: "docs(changelog): changelog for v${{ steps.sr.outputs.new_release_version }}"
           body: |
-            Update CHANGELOG.md to reflect changes in v${{ steps.sr.outputs.new_release_version }})
+            Update CHANGELOG.md to reflect changes in v${{ steps.sr.outputs.new_release_version }}
           commit-message: "docs(changelog): v${{ steps.sr.outputs.new_release_version }} [skip ci]"
           add-paths: |
             CHANGELOG.md
