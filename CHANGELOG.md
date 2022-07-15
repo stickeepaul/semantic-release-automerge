@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/stickeepaul/semantic-release-automerge/compare/v1.2.1...v1.2.2) (2022-07-15)
+
+
+### Bug Fixes
+
+* typo in readme ([6e0a72c](https://github.com/stickeepaul/semantic-release-automerge/commit/6e0a72cb86bf2bcfeb2196d7699d28a2282da56a))
+
 ## [1.2.1](https://github.com/stickeepaul/semantic-release-automerge/compare/v1.2.0...v1.2.1) (2022-07-15)
 
 
