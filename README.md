@@ -1,3 +1,3 @@
 # semantic-release-automerge
 
-now with autapprove!
+now with auto-approve!
