@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/stickeepaul/semantic-release-changelog-with-github-protected-branches/compare/v1.4.0...v1.5.0) (2022-07-19)
+
+
+### Features
+
+* pr merge bot instead of automerge ([36d4fa9](https://github.com/stickeepaul/semantic-release-changelog-with-github-protected-branches/commit/36d4fa9da9fdf2800e2f538c4b42ca51c9db419d))
+
 # [1.4.0](https://github.com/stickeepaul/semantic-release-changelog-with-github-protected-branches/compare/v1.3.0...v1.4.0) (2022-07-15)
 
 
