@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/stickeepaul/semantic-release-changelog-with-github-protected-branches/compare/v1.5.0...v1.5.1) (2022-07-19)
+
+
+### Bug Fixes
+
+* revert pr merge bot back to automerge ([85061d3](https://github.com/stickeepaul/semantic-release-changelog-with-github-protected-branches/commit/85061d3c6acd99fc29e81870e401545c2bbd8b2d))
+
 # [1.5.0](https://github.com/stickeepaul/semantic-release-changelog-with-github-protected-branches/compare/v1.4.0...v1.5.0) (2022-07-19)
 
 
